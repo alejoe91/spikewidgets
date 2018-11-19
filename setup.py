@@ -17,8 +17,7 @@ setuptools.setup(
         'vdom',
         'ipywidgets',
         'matplotlib',
-        'spikeinterface',
-        'ml_ms4alg'
+        'spikeextractors'
     ],
     classifiers=(
         "Programming Language :: Python :: 3",
